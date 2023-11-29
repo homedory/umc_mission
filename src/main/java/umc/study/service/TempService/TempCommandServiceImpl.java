@@ -7,8 +7,5 @@ import org.springframework.stereotype.Service;
 @RequiredArgsConstructor
 public class TempCommandServiceImpl implements TempCommandService {
 
-    @Override
-    public void CheckFlag(Integer flag) {
 
-    }
 }

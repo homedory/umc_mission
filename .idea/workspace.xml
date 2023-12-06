@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c27eac0a-de96-4e5d-982f-ec5e62c458e3" name="Changes" comment="mission8 modified">
+      <change afterPath="$PROJECT_DIR$/src/main/java/umc/study/validation/validator/CategoriesExistValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/apiPayload/code/status/ErrorStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/apiPayload/code/status/ErrorStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Member$MemberBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Member$MemberBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/enums/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/enums/Gender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/mapping/MemberPrefer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/mapping/MemberPrefer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/TempCommandService.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/TempCommandServiceImpl.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/status/ErrorStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/status/ErrorStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/domain/Mission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/domain/Mission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/domain/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/domain/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/domain/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/domain/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/domain/enums/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/domain/enums/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/domain/mapping/MemberMission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/domain/mapping/MemberMission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/domain/mapping/MemberPrefer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umc/study/domain/mapping/MemberPrefer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mission7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YiUlBV111moFW6qO9l7tVpxJdJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UMC/umc_mission/build.gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;119b3df13ddf2e00acd0e388d154323c&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="umc.study.apiPayload.exception" />
+      <recent name="umc.spring.apiPayload.code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StudyApplication">
+    <configuration name="ApplicationTests.contextLoads" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;umc.study.ApplicationTests.contextLoads&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="umc_mission" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="umc_mission" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="umc.study.StudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c27eac0a-de96-4e5d-982f-ec5e62c458e3" name="Changes" comment="" />
+      <created>1701008046542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701008046542</updated>
+      <workItem from="1701008047949" duration="550000" />
+      <workItem from="1701009147432" duration="806000" />
+      <workItem from="1701010384362" duration="1187000" />
+      <workItem from="1701069759764" duration="2649000" />
+      <workItem from="1701080228197" duration="7082000" />
+      <workItem from="1701147318953" duration="547000" />
+      <workItem from="1701161575034" duration="2437000" />
+      <workItem from="1701172634970" duration="10986000" />
+      <workItem from="1701238829682" duration="9616000" />
+      <workItem from="1701261301196" duration="7309000" />
+      <workItem from="1701323676192" duration="4965000" />
+      <workItem from="1701682579078" duration="13248000" />
+      <workItem from="1701776745311" duration="14850000" />
+      <workItem from="1701833391519" duration="15694000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1701010911394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701010911394</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mission8 commit">
+      <created>1701250156786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701250156786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mission8 modified">
+      <created>1701262700674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701262700674</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="mission8 commit" />
+    <MESSAGE value="mission8 modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="mission8 modified" />
+  </component>
+</project>
